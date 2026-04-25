@@ -1,0 +1,1 @@
+# Big-Data-Analytics-For-Partitioning-in-Apache-Hive
